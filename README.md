@@ -20,7 +20,8 @@ Basic arithmetic operations
 
 User input handling with Scanner
 
-🔹 Sample Output
+##🔹 Sample Output
+
 --- CAFE MENU ---
 1. Cappuccino - Rs.120
 2. Latte - Rs.100
